@@ -9,14 +9,13 @@ To find how many layers are left by the default sketch element naming. Now a day
 # 
 
 ### Usage
-Download the [Sketch Plugin file](https://github.com/pplcallmesatz/SketchDefaultNameCheck/releases/download/release/SketchDefaultNameCheck.zip), and double click it, or move it to your plugins folder manually.
+Download the [Sketch Plugin file](https://github.com/pplcallmesatz/SketchDefaultNameCheck/releases/download/releasev1.1.1/SketchDefaultNameCheck.sketchplugin.zip), and double click it, or move it to your plugins folder manually.
 
-```
-Plugin > Sketch Default Name Check 👁️ > Run 👉
-```
+`Plugin > Sketch Default Name Check 👁️ > Run 👉 ` or press `ctrl + swift + s`
+
 Make sure you have selected atleast `1 Artboard`
 
-![export](https://user-images.githubusercontent.com/25052643/137095414-f951f1a0-4b40-474a-8832-23f7db84ab8f.png)
+![export](https://user-images.githubusercontent.com/25052643/137112196-6c05d21c-2f57-4bf9-ab3d-284acb776882.png)
 
 
 
@@ -46,7 +45,7 @@ Currently we are giving support to the following layer types
 ### Download
 Click the below button to download the plugin and double click the `SketchDefaultNameCheck.sketchplugin` to install
 
-[![button](https://user-images.githubusercontent.com/25052643/137097978-d66dbd2e-7780-44c5-b03f-bd899208431e.png)](https://github.com/pplcallmesatz/SketchDefaultNameCheck/releases/download/release/SketchDefaultNameCheck.zip)
+[![button](https://user-images.githubusercontent.com/25052643/137097978-d66dbd2e-7780-44c5-b03f-bd899208431e.png)](https://github.com/pplcallmesatz/SketchDefaultNameCheck/releases/download/releasev1.1.1/SketchDefaultNameCheck.sketchplugin.zip)
 
 #
 
