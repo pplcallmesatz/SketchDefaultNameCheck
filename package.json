@@ -24,8 +24,8 @@
     "@skpm/builder": "^0.8.0"
   },
   "author": "Satheesh Kumar S<satheeshssk@icloud.com>",
-    "repository" : {
-   "type": "git",
-   "url": "https://github.com/pplcallmesatz/SketchDefaultNameCheck.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pplcallmesatz/SketchDefaultNameCheck.git"
   }
 }
