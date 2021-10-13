@@ -30,6 +30,7 @@ Check out the output when we run the plugin.
 
 ### Demo Video
 This video illustrate how this plugin works.
+
 ![demo](https://user-images.githubusercontent.com/25052643/137097325-5bf3c657-d86c-47c6-9c90-be11b76b3609.gif)
 
 
@@ -44,6 +45,7 @@ Currently we are giving support to the following layer types
 
 ### Download
 Click the below button to download the plugin and double click the `SketchDefaultNameCheck.sketchplugin` to install
+
 [![button](https://user-images.githubusercontent.com/25052643/137097978-d66dbd2e-7780-44c5-b03f-bd899208431e.png)](https://github.com/pplcallmesatz/SketchDefaultNameCheck/releases/download/release/SketchDefaultNameCheck.zip)
 
 #
