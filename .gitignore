@@ -1,5 +1,5 @@
 # build artifacts
-layer-name-check.sketchplugin
+SketchDefaultNameCheck.sketchplugin
 
 # npm
 node_modules
