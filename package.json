@@ -8,7 +8,7 @@
   "skpm": {
     "name": "Layer Name Check",
     "manifest": "src/manifest.json",
-    "main": "layer-name-check.sketchplugin",
+    "main": "SketchDefaultNameCheck.sketchplugin",
     "assets": [
       "assets/**/*"
     ],

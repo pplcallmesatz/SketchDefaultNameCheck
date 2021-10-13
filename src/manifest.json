@@ -4,14 +4,14 @@
   "commands": [
     {
       "name": "Run 👉",
-      "identifier": "layer-name-check.run-identifier",
+      "identifier": "SketchDefaultNameCheck.run-identifier",
       "script": "./run.js"
     }
   ],
   "menu": {
-    "title": "Name Check 👁️",
+    "title": "Sketch Default Name Check 👁️",
     "items": [
-      "layer-name-check.run-identifier"
+      "SketchDefaultNameCheck.run-identifier"
     ]      
   }
 }
