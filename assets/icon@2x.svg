@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="128px" height="128px" viewBox="0 0 128 128" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon@2x</title>
+    <g id="icon" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect id="backdrop" fill="#E8F0FE" x="0" y="0" width="128" height="128" rx="15"></rect>
+        <g id="box" transform="translate(20.000000, 20.000000)" fill="#1B72F8">
+            <rect id="Rectangel" x="0" y="0" width="39" height="88" rx="5"></rect>
+            <rect id="Rectangel-Copy" x="49" y="0" width="39" height="38" rx="5"></rect>
+            <rect id="Rectangel-Copy-2" x="49" y="50" width="39" height="38" rx="5"></rect>
+        </g>
+    </g>
+</svg>

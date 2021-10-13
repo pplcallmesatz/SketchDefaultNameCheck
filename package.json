@@ -1,0 +1,27 @@
+{
+  "name": "SketchDefaultNameCheck",
+  "description": "To standardise the sketch layer naming, this extension helps to find the default naming which is present in the selected artboards",
+  "version": "1.1.0",
+  "engines": {
+    "sketch": ">=49.0"
+  },
+  "skpm": {
+    "name": "Layer Name Check",
+    "manifest": "src/manifest.json",
+    "main": "layer-name-check.sketchplugin",
+    "assets": [
+      "assets/**/*"
+    ],
+    "sketch-assets-file": "sketch-assets/icons.sketch"
+  },
+  "scripts": {
+    "build": "skpm-build",
+    "watch": "skpm-build --watch",
+    "start": "skpm-build --watch --run",
+    "postinstall": "npm run build && skpm-link"
+  },
+  "devDependencies": {
+    "@skpm/builder": "^0.8.0"
+  },
+  "author": "Satheesh Kumar S<satheeshssk@icloud.com>"
+}
