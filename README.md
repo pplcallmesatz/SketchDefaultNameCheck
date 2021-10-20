@@ -3,6 +3,8 @@
 
 #   
 
+<a href="https://www.producthunt.com/posts/sketch-layer-name-check?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-sketch-layer-name-check" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=316624&theme=dark" alt="Sketch Layer Name Check - Focusing on standardising the Sketch layer | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
+
 ### Purpose
 To find how many layers are left by the default sketch element naming. Now a days we are workin in collabration with designers and also developers. In order to standardise the naming this extension help you to find the layer default names. 
 
